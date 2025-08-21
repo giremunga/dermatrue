@@ -34,7 +34,7 @@ const Navbar = () => {
             </Link>
 
             <Link
-              href="/skin-analysis"
+              href="/analysis"
               className="flex items-center space-x-1 text-gray-700 hover:text-pink-600 font-medium transition-colors duration-200"
             >
               <span>Skin Analysis</span>
